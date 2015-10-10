@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: b6e0869f23617e84199b28f44cae516e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Foot
+    100010: Bip01 L Forearm
+    100012: Bip01 L Thigh
+    100014: Bip01 L UpperArm
+    100016: Bip01 Neck
+    100018: Bip01 Pelvis
+    100020: Bip01 R Calf
+    100022: Bip01 R Clavicle
+    100024: Bip01 R Foot
+    100026: Bip01 R Forearm
+    100028: Bip01 R Thigh
+    100030: Bip01 R UpperArm
+    100032: Bip01 Spine
+    100034: Bip01 Spine1
+    100036: Bip01left_hand
+    100038: Bip01right_hand
+    100040: Bone01
+    100042: Bone02
+    100044: Bone03
+    100046: Bone04
+    100048: Bone06
+    100050: Bone07
+    100052: Bone08
+    100054: Bone09
+    100056: Bone11
+    100058: Bone12
+    100060: Bone14
+    100062: Bone15
+    100064: Bone17
+    100066: Bone18
+    100068: Bone20
+    100070: Bone21
+    100072: Bone23
+    100074: Bone24
+    100076: Bone26
+    100078: Bone27
+    100080: effect_spine01
+    100082: help_body01
+    100084: help_head01
+    100086: jingling
+    100088: left_hand
+    100090: right_hand
+    100092: //RootNode
+    100094: weapon_spine01
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Foot
+    400010: Bip01 L Forearm
+    400012: Bip01 L Thigh
+    400014: Bip01 L UpperArm
+    400016: Bip01 Neck
+    400018: Bip01 Pelvis
+    400020: Bip01 R Calf
+    400022: Bip01 R Clavicle
+    400024: Bip01 R Foot
+    400026: Bip01 R Forearm
+    400028: Bip01 R Thigh
+    400030: Bip01 R UpperArm
+    400032: Bip01 Spine
+    400034: Bip01 Spine1
+    400036: Bip01left_hand
+    400038: Bip01right_hand
+    400040: Bone01
+    400042: Bone02
+    400044: Bone03
+    400046: Bone04
+    400048: Bone06
+    400050: Bone07
+    400052: Bone08
+    400054: Bone09
+    400056: Bone11
+    400058: Bone12
+    400060: Bone14
+    400062: Bone15
+    400064: Bone17
+    400066: Bone18
+    400068: Bone20
+    400070: Bone21
+    400072: Bone23
+    400074: Bone24
+    400076: Bone26
+    400078: Bone27
+    400080: effect_spine01
+    400082: help_body01
+    400084: help_head01
+    400086: jingling
+    400088: left_hand
+    400090: right_hand
+    400092: //RootNode
+    400094: weapon_spine01
+    4300000: jingling
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: jingling
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
